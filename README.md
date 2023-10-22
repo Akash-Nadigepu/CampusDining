@@ -26,6 +26,7 @@ Import 'database'.sql file(given inside the zip package in SQL file folder)
 For User Panel: http://localhost/campusdining/
 
 For admin panel: http://localhost/campusdining/admin/
+
 Credential for Admin panel :
 username: admin
 password: admin
